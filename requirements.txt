@@ -7,3 +7,4 @@ statsmodels
 scikit-learn
 textblob
 nltk
+ta-lib
