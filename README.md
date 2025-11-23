@@ -25,7 +25,7 @@ brew install ta-lib
 ### Project Setup
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/Onyxge/Nova-Financial-Analysis.git
 cd <your-repo-name>
 /usr/local/bin/python3.10 -m venv venv
 source venv/bin/activate
